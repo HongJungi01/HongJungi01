@@ -29,8 +29,7 @@ Mechanical System Design Engineering student focused on SLAM, Autonomous Driving
 
 ## 🤝 Activities
 
-- 🎓 **Hongik University** — Mechanical System Design Engineering (Class of 2020 / Expected Graduation: Feb 2027)
+- 🎓 **Hongik University** — Mechanical System Design Engineering (Class of 2020)
 - 🔬 **ROMOMO Lab** — Undergraduate Researcher (Autonomous Driving Lab)
-- 🤖 **Matrix (AI Academic Society)** — Active Member (2 Years, AI/Deep Learning)
-- 🏆 **Autonomous Driving Racing Competition** — Award Winner (Algorithm & Software Developer)
+- 🤖 **Matrix (AI Academic Society)** — Active Member (AI/Deep Learning)
 - 🇩🇪 **Global Product Design Project** — Team Member (International Collaboration in Germany)
