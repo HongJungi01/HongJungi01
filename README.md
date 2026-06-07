@@ -17,7 +17,7 @@ Mechanical System Design Engineering student focused on SLAM, Autonomous Driving
 <img src="https://skillicons.dev/icons?i=py" /> <img src="https://skillicons.dev/icons?i=matlab" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=react" />
 
 ### Database & Engineering Tools
-<img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=autocad" />
+<img src="https://skillicons.dev/icons?i=mysql,autocad" /> <img src="https://img.shields.io/badge/LabVIEW-000000?style=for-the-badge&logo=labview&logoColor=yellow" height="50px" />
 * **Database:** SQLD Certified (MySQL / General SQL)
 * **Engineering Tools:** Autodesk Fusion 360, Aspen HYSYS
 
